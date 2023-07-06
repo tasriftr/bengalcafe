@@ -31,3 +31,4 @@ $option: "i" means case insensitive
 destructure***
 this keyword cannot be use inside arrow function
 ... three dots in node js 
+populate*** by using this suppose we can get thing inside of that one specific user
