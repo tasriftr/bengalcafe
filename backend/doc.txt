@@ -1,0 +1,33 @@
+//npm package//
+express --
+mongoose --
+dotenv --
+nodemon --
+bcryptjs
+jsonwebtoken -- jwt which makes a token in cookie which makes user 
+stays login, 
+validator -- use to validate. Used in validator.
+nodemailer cookie-parser body-parser
+
+//run//
+npm run dev
+
+//turnary operator// 
+kjdhh ? {if}:{else}
+
+//need to know//
+$regex means regular operator
+$option: "i" means case insensitive
+
+
+3:25:40
+3:15:26 send email completed
+3:32:20 update password put request
+4:20:10
+
+//must add seo ***
+
+//keywords//
+destructure***
+this keyword cannot be use inside arrow function
+... three dots in node js 
