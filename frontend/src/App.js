@@ -3,7 +3,7 @@ import Header from "./component/layout/Header/header.jsx";
 import Footer from "./component/layout/Footer/footer.jsx";
 import React from "react";
 import WebFont from "webfontloader";
-import Home from "./component/layout/Home/Home.jsx";
+import Home from "./component/Home/Home.jsx";
 
 import {
   Route,
