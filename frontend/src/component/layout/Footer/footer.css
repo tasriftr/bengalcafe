@@ -1,0 +1,21 @@
+.footer{
+    color: white;
+    padding: 25px;
+    background: #000000;
+    background: linear-gradient(to right #0e0e0e , #000000 ) ;
+    background: -webkit-linear-gradient(to right #0e0e0e , #000000);
+  }
+  
+  .footer a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+  }
+  
+  .footer a:hover{
+    color: rgb(214, 209, 209);
+    border-bottom: 1px solid white;
+    transition-duration: 2s;
+    transform-style: initial;
+    transition: ease-in;
+  }

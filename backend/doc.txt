@@ -31,4 +31,7 @@ $option: "i" means case insensitive
 destructure***
 this keyword cannot be use inside arrow function
 ... three dots in node js 
-populate*** by using this suppose we can get thing inside of that one specific user
+populate*** by using this suppose we can get thing inside of that one specific user 
+for populate admin can see the name and email of the use who made the order
+
+npm install axios react-alert react-alert-template-basic react-helmet react-redux redux redux-thunk @redux-devtools/extension react-router-dom react-icons
